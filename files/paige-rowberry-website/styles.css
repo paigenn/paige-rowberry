@@ -104,6 +104,20 @@ p {
   margin: 10px 0 14px;
 }
 
+.headshot-wrap {
+  margin: 0 0 18px;
+  text-align: center;
+}
+
+.headshot {
+  display: block;
+  width: min(340px, 100%);
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 0 6px #e5e5e5;
+}
+
 .profile p {
   margin: 10px 0;
 }
